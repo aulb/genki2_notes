@@ -26,7 +26,7 @@ Personal Genki 2 notes. Each grammar pattern should contain an explanation, a li
 |[16.5 てすみませんでした [apologize]](#165-てすみませんでした-apologize)| |
 |[17.1 ~そうです [I hear]](#171-そうです-i-hear)| |
 |[17.2 ~って [informal quote]](#172-って-informal-quote)| |
-|[17.3 ~たら [if]](#173-たら-if)| |
+|[17.3 ~たら [if]](#173-たら-if)|完成！|
 |[17.4 ~なくてもいいです [do not need to]](#174-なくてもいいです-do-not-need-to)| |
 |[17.5 ~みたいです [is like / looks like]](#175-みたいです-is-like--looks-like)| |
 |[17.6 ~前に / ~てから [before / after]](#176-前に--てから-before--after)| |
@@ -137,14 +137,29 @@ Almost always written using hiragana.
 2) 友達があの店のケーキは上手いと行っていましたから、今度食べてみる。
 
 # 13.5 〜なら
-This grammar pattern puts emphasis on contrast.
+## Explanation
+This grammar pattern is part of the different ways of saying "if". Another usage is to emphasis on contrast.
+
+## Example Sentences
+> Q: ブラジルに行ったことがありますか？
+A: チリなら行ったことがありますが、ブラジルは行ったことがありません。
+
+Q: Have you been to Brazil? A: I mean, Chile yeah, but Brazil nah I haven't been. 
+
+> Q: 日本語分かる？ A: ひらがななら分かる。
+
+If written in hiragana, yes.
+
+> 日本に行くなら、カメラを買います。
+
+If I go to Japan, I'll buy a camera. 
+
+## Grammar Rules
 Contrast (situation1) なら limitation (situation2).
 
-1) ブラジルに行ったことがありますか？
-チリなら行ったことがありますが、ブラジルは行ったことがありません。
-2) 日本語分かる？
-ひらがななら分かる。
-If written in hiragana, yes.
+## Related Sections
+[17.3 ~たら [if]](#173-たら-if)
+[18.3 ~と [whenever]](#183-と-whenever)
 
 # 13.6 Frequency over a period of time
 This grammar pattern is (period)に(frequency) = frequency(per)period.
@@ -352,10 +367,22 @@ Note: Can also describe unreal and contrary to facts.
 
 Let's have a picnic if it's sunny tomorrow.
 
+> 失敗したら、どうする？ 
+
+What if I lose? This example shows the usage in "what if".
+
+>　すきじゃなかったら、食べなくてもいいよ。
+
+You don't have to eat it if you don't like it.
+
 ## Grammar Rules
 Clause A たら clause B. Clause A has yet to happen.
 1) 動詞「た形」＋ら
 2) 名詞＋だったら
+
+## Related Sections
+[13.5 なら [only]](#135-なら)
+[18.3 ~と [whenever]](#183-と-whenever)
 
 # 17.4 ~なくてもいいです [do not need to]
 
@@ -437,6 +464,10 @@ Whenever A happens, B does too.
 2) (short, negative) clause A と clause B.
 3) (masu-form, present ONLY) clause A と clause B. 
 Note that the use of -masu form makes the sentence sounds formal.
+
+## Related Sections
+[13.5 なら [only]](#135-なら)
+[17.3 ~たら [if]](#173-たら-if)
 
 # 18.4 ~ながら [while]
 Connecting two verbs with 〜ながら to say that the two actions are **performed at the same time**. The second verb can be in any form.

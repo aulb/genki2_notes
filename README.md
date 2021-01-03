@@ -1,4 +1,7 @@
-# Genki Two Notes
+# Genki 2 Notes
+Personal Genki 2 notes. Each grammar pattern should contain an explanation, a list of examples with translation and some additional notes if required, and a section on how to use the grammar pattern.
+
+# Table of Contents
 |第|完成|
 |---|:-:|
 |[13.1 Potential Verbs](#13.1-Potential-Verbs)| |
@@ -389,20 +392,30 @@ This grammar pattern can also be used to represent something with a suprising ou
 Overall this grammar pattern is sounds a little bit more formal.
 
 ## Example Sentences:
-1) 春になると、桜が咲きます。これは大丈夫：春が来ると、桜が咲きます。
+> 春になると、桜が咲きます。これも大丈夫：春が来ると、桜が咲きます。
+
 When (or if) spring comes, the cherry blossom blooms.
 In Japan in the spring, typically the cherry blossom always blooms. 
-2) 君を見ると、自分が若かった頃を思い出す。
+> 君を見ると、自分が若かった頃を思い出す。
+
 Whenever I look at you, I think about my younger self.
 Represents something habitual.
-3) 左足出して、右足出すと歩ける。（当たり前！）
+
+> 左足出して、右足出すと歩ける。（当たり前！）
+
 If I put my left foot forward, and then my right food forward, then I walk. (Obviously)
-4) 牛乳を飲むとお腹が痛くなる。
+
+> 牛乳を飲むとお腹が痛くなる。
+
 Whenever I drink milk my stomach hurts. 
 Note: can be a recent thing, can be an occurence since birth.
-5) お酒を飲むすぎると気持ち悪くなる。
+
+> お酒を飲むすぎると気持ち悪くなる。
+
 Whenever I drink too much alcohol I feel nauseous.
-6) 人形の髪を切ると、また髪が伸びました。
+
+> 人形の髪を切ると、また髪が伸びました。
+
 Whenever I cut the doll's hair, it grew back.
 Note: this is an example of a suprising usage of this grammar pattern.
 

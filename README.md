@@ -8,12 +8,12 @@ Personal Genki 2 notes. Each grammar pattern should contain an explanation, a li
 |[13.2 ~し [reasons]](#132-し)| |
 |[13.3 ~そうです [looks like]](#133-そうです-looks-like)| |
 |[13.4 ~てみる [try doing]](#134てみる)| |
-|[13.5 なら [only]](#135-なら)| |
+|[13.5 なら [only]](#135-なら)|完成！|
 |[13.6 Frequency over a period of time](#136-frequency-over-a-period-of-time)| |
 |[14.1 ほしい [want something]](#141-ほしい-want-something)| |
 |[14.2 ~かもしれません [possibility]](#142-かもしれません-possibility)| |
 |[14.3 あげる / くれる / もらう](#143-あげる--くれる--もらう)||
-|[14.4 ~たらどうですか [advice]](#144-たらどうですか-advice)| |
+|[14.4 ~たらどうですか [advice]](#144-たらどうですか-advice)| | 
 |[14.5 Number + も / しか](#145-number--も--しか)| |
 |[15.1 Volitional Form](#151-volitional-form)||
 |[15.1/2 Volitional Form + と思っています](#1512-volitional-form--と思っています)||
@@ -138,7 +138,15 @@ Almost always written using hiragana.
 
 # 13.5 〜なら
 ## Explanation
-This grammar pattern is part of the different ways of saying "if". Another usage is to emphasis on contrast.
+There are two ways of using なら. The first one is to use it as "if" (check out 17.3 and 18.5 for other ways to say "if"). It is similar to ~たら, though with this pattern the speaker usually knows that the clause is about to happen.
+
+>　明日雨が降ったら、ピクニックしないほうがいいよ。
+If it rains tomorrow (I don't know if it will, just saying), we should not do a picnic.
+
+>　明日雨が降るなら、ピクニックしないほうがいいよ。
+If it rains tomorrow (I've heard that it might, or someone told me), we should not do a picnic.
+
+The second one is to use it as a means to contrast. It is used with a noun.
 
 ## Example Sentences
 > Q: ブラジルに行ったことがありますか？
@@ -150,12 +158,25 @@ Q: Have you been to Brazil? A: I mean, Chile yeah, but Brazil nah I haven't been
 
 If written in hiragana, yes.
 
+> Q: 緑茶がありますか？　A: 紅茶ならあります。
+
+Q: Do you have green tea? A: Black tea is available (not green).
+
 > 日本に行くなら、カメラを買います。
 
 If I go to Japan, I'll buy a camera. 
 
+> 日本で働いたイなら、日本語を勉強しなきゃ～
+
+If I want to work in Japan, I must study Japanese.
+
+> 先輩が好きなら、この曲がすごいはず。
+
+If senpai likes it, then it must be good. The usage above illustrates "if you say so".
+
 ## Grammar Rules
-Contrast (situation1) なら limitation (situation2).
+1) Clause 1 (short form) + なら　Clause 2 
+2) As a contrasting tool: Noun or the constrast (situation1) なら limitation (situation2).
 
 ## Related Sections
 [17.3 ~たら [if]](#173-たら-if)

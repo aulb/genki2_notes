@@ -331,17 +331,29 @@ Sorry for not bringing in the homework.
 **Informal speech**. Adding this grammar at the end of a sentence instead of そうです, to quote what you have heard. TODO: With 17.1
 
 # 17.3 ~たら [if]
-Expressed assummed condition. "When I have time, I'll go". The first clause of たら has not happened yet, but when it happened (notice the past tense) then the second clause will trigger. Often used with もし (if).
+## Explanation
+Expressed assummed condition. "When I have time, I'll go". The first clause of たら has not happened yet, but when it happened (notice the past tense) then the second clause will trigger. Often used with もし (if). 
 
-Second clause describes a *possible* condition. One last note, we cannot use this grammar pattern if clause B comes before clause A. "It will be better for you to study this weekend, if you have an exam next week".
+Second clause describes a *possible* condition. In contrast with ~と where the second clause almost always happens. One last note, we cannot use this grammar pattern if clause B comes before clause A. Below are examples of things that cannot be used with this grammar pattern. 
+- "It will be better for you to study this weekend, if you have an exam next week". 
+- "If I go to Japan, I'll buy a camera"
 
-1) この小説を読んだら、きっとこのさっかが好きになります。
+## Example Sentences
+> この小説を読んだら、きっとこのさっかが好きになります。
+
 If you read this novel, you'll fall in love with the author.
-2) 私が猫だったら、一日中寝ているでしょう。
+
+> 私が猫だったら、一日中寝ているでしょう。
+
 If I were a cat, I'd sleep all day long.
 Note: Can also describe unreal and contrary to facts.
 
-ルール：Clause A たら clause B. Clause A has yet to happen.
+> 明日晴れたらピクニックにしよう！
+
+Let's have a picnic if it's sunny tomorrow.
+
+## Grammar Rules
+Clause A たら clause B. Clause A has yet to happen.
 1) 動詞「た形」＋ら
 2) 名詞＋だったら
 
@@ -384,14 +396,14 @@ The TV is off.
 # 18.2 ~てしまう [do completely / regret]
 
 # 18.3 ~と [whenever]
-## Explanation:
-This grammar pattern can be translated as *if* or *when*. More closely translated to "whenever". This grammar pattern is used when an event has a natural consequence, i.e: "when I close the window, it gets darker inside". Think about it as an event with habitual result, something that will always happen. We can't use と when we are talking about our own volition, or to make request. "When winter comes, lets go skiing" (can't use と in this case).
+## Explanation
+This grammar pattern can be translated as *if* or *when*. More closely translated to "whenever". This grammar pattern is used when an event has a natural consequence, i.e: "when I close the window, it gets darker inside". Think about it as an event with habitual result, something that will always happen. We can't use と when we are talking about our own volition (cannot use it with "let's" or "must"), or to make request. "When winter comes, lets go skiing" (can't use と in this case).
 
 This grammar pattern can also be used to represent something with a suprising outcome. For example: "The doll's hair grew again when I cut them". 
 
 Overall this grammar pattern is sounds a little bit more formal.
 
-## Example Sentences:
+## Example Sentences
 > 春になると、桜が咲きます。これも大丈夫：春が来ると、桜が咲きます。
 
 When (or if) spring comes, the cherry blossom blooms.
@@ -419,7 +431,7 @@ Whenever I drink too much alcohol I feel nauseous.
 Whenever I cut the doll's hair, it grew back.
 Note: this is an example of a suprising usage of this grammar pattern.
 
-## Grammar Rules：
+## Grammar Rules
 1) (short, present) clause A と clause B.
 Whenever A happens, B does too.
 2) (short, negative) clause A と clause B.

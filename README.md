@@ -1,67 +1,67 @@
 # Genki Two Notes
 |第|完成|
 |---|:-:|
-|[13.1 Potential Verbs](#13.1-Potential-Verbs)|✅|
-|[13.2 ~し [reasons]](#132-し)|✅|
-|[13.3 ~そうです [looks like]](#133-そうです-looks-like)|✅|
-|[13.4 ~てみる [try doing]](#134てみる)|✅|
-|[13.5 なら [only]](#135-なら)|✅|
-|[13.6 Frequency over a period of time](#136-frequency-over-a-period-of-time)|✅|
-|[14.1 ほしい [want something]](#141-ほしい-want-something)|✅|
-|[14.2 ~かもしれません [possibility]](#142-かもしれません-possibility)|✅|
+|[13.1 Potential Verbs](#13.1-Potential-Verbs)| |
+|[13.2 ~し [reasons]](#132-し)| |
+|[13.3 ~そうです [looks like]](#133-そうです-looks-like)| |
+|[13.4 ~てみる [try doing]](#134てみる)| |
+|[13.5 なら [only]](#135-なら)| |
+|[13.6 Frequency over a period of time](#136-frequency-over-a-period-of-time)| |
+|[14.1 ほしい [want something]](#141-ほしい-want-something)| |
+|[14.2 ~かもしれません [possibility]](#142-かもしれません-possibility)| |
 |[14.3 あげる / くれる / もらう](#143-あげる--くれる--もらう)||
-|[14.4 ~たらどうですか [advice]](#144-たらどうですか-advice)|✅|
-|[14.5 Number + も / しか](#145-number--も--しか)|✅|
+|[14.4 ~たらどうですか [advice]](#144-たらどうですか-advice)| |
+|[14.5 Number + も / しか](#145-number--も--しか)| |
 |[15.1 Volitional Form](#151-volitional-form)||
 |[15.1/2 Volitional Form + と思っています](#1512-volitional-form--と思っています)||
-|[15.2/3 ~ておく [preparation]](#1512-volitional-form--と思っています)|半✅|
-|[15.3/4 Using Sentences to Qualify Nouns](#1534-using-sentences-to-qualify-nouns)|✅|
+|[15.2/3 ~ておく [preparation]](#1512-volitional-form--と思っています)|半 |
+|[15.3/4 Using Sentences to Qualify Nouns](#1534-using-sentences-to-qualify-nouns)| |
 |[16.1 てあげる / てくれる / てもらう](#161-てあげる--てくれる--てもらう)||
 |[16.2 ~ていただきませんか　Making a request](#162-ていただきませんか-making-a-request)| |
-|[16.3 ~といい [I hope]](#163-といい-i-hope)|✅ |
-|[16.4 ~時 [when]](#164-時-when)|✅|
-|[16.5 てすみませんでした [apologize]](#165-てすみませんでした-apologize)|✅|
+|[16.3 ~といい [I hope]](#163-といい-i-hope)|  |
+|[16.4 ~時 [when]](#164-時-when)| |
+|[16.5 てすみませんでした [apologize]](#165-てすみませんでした-apologize)| |
 |[17.1 ~そうです [I hear]](#171-そうです-i-hear)| |
 |[17.2 ~って [informal quote]](#172-って-informal-quote)| |
-|[17.3 ~たら [if]](#173-たら-if)|✅|
+|[17.3 ~たら [if]](#173-たら-if)| |
 |[17.4 ~なくてもいいです [do not need to]](#174-なくてもいいです-do-not-need-to)| |
 |[17.5 ~みたいです [is like / looks like]](#175-みたいです-is-like--looks-like)| |
 |[17.6 ~前に / ~てから [before / after]](#176-前に--てから-before--after)| |
-|[18.1 Transitivity pairs](#181-transitivity-pairs)|✅|
+|[18.1 Transitivity pairs](#181-transitivity-pairs)| |
 |[18.2 ~てしまう [do completely / regret]](#182-てしまう-do-completely--regret)| |
-|[18.3 ~と [whenever]](#183-と-whenever)|✅|
-|[18.4 ~ながら [while]](#184-ながら-while)|✅|
-|[18.5 ~ばよかったです [I wish I had done...]](#185-ばよかったです-i-wish-i-had-done)|✅|
+|[18.3 ~と [whenever]](#183-と-whenever)|完成！|
+|[18.4 ~ながら [while]](#184-ながら-while)| |
+|[18.5 ~ばよかったです [I wish I had done...]](#185-ばよかったです-i-wish-i-had-done)| |
 |[19.1 Honorific verbs](#191-honorific-verbs)| |
 |[19.2 Respectful Advice](#192-respectful-advice)| |
-|[19.3 ~てくれてありがとう [thanks for]](#193-てくれてありがとう-thanks-for)|✅|
-|[19.4 ~てよかったです [I'm glad that]](#194-てよかったです-im-glad-that)|✅|
-|[19.5 ~はずです [supposed to be]](#195-はずです)|✅|
-|20.1 Extra-modest Expressions | |
-|20.2 Humble Expressions | |
-|20.3 ~ないで [without doing x] | |
-|20.4 Questions in Larger Sentences | |
-|20.5 name という item [called] | |
-|20.6 やすい / にくい [easy/hard to do] | |
-|21.1 Passive Sentences | |
+|[19.3 ~てくれてありがとう [thanks for]](#193-てくれてありがとう-thanks-for)| |
+|[19.4 ~てよかったです [I'm glad that]](#194-てよかったです-im-glad-that)| |
+|[19.5 ~はずです [supposed to be]](#195-はずです)| |
+|[20.1 Extra-modest Expressions](#201-extra-modest-expressions) | |
+|[20.2 Humble Expressions](#202-humble-expressions) | |
+|[20.3 ~ないで [without doing x]](#203-ないで) | |
+|[20.4 Questions in Larger Sentences](#204-questions-in-larger-sentences) | |
+|[20.5 name という item [called]](#205-name-という-item) | |
+|[20.6 やすい / にくい [easy/hard to do]](#206-やすい) | |
+|[21.1 Passive Sentences](#211-passive-sentences) | |
 |[21.2 ~てある [situation - on purpose]](#212-てある-situation---on-purpose)||
-|21.3~あいだに [while/in the middle of] | |
-|21.4 adjective + する [to make] | |
-|21.5 ~てほしい [want somebody to...] | |
-|22.1 Causative sentences | |
-|22.2 verb stem + なさい [command] | |
-|22.3 ば-form [if] | |
-|22.4 ~のに [even though] | |
-|22.5 ~のような / ~のように [like] | |
-|23.1 Causative-passive Sentences | |
-|23.2 ~ても [even if] | |
-|23.3 ~ことにする [decide to] | |
-|23.4 ~まで [until] |✅|
-|23.5 ~かた [how to do]|✅|
+|[21.3 ~あいだに [while/in the middle of]](#213-あいだに) | |
+|[21.4 adjective + する [to make]](#214-adjective-する) | |
+|[21.5 ~てほしい [want somebody to...]](#215-てほしい) | |
+|[22.1 Causative sentences](#221-causative-sentences) | |
+|[22.2 verb stem + なさい [command]](#222-verb-stem) | |
+|[22.3 ば-form [if]](#223-ば) | |
+|[22.4 ~のに [even though]](#224-のに) | |
+|[22.5 ~のような / ~のように [like]](#225-のような) | |
+|[23.1 Causative-passive Sentences](#231-causative-passive-sentences) | |
+|[23.2 ~ても [even if]](#232-ても) | |
+|[23.3 ~ことにする [decide to]](#233-ことにする) | |
+|[23.4 ~まで [until]](#234-まで) | |
+|[23.5 ~かた [how to do]](#235-かた)| |
 
 # 13.1 Potential Forms
 Expressing the ability to do something, can or able to do something.
-
+Grammar Pattern:
 1) る動詞＋られる
 寝る→寝られる
 2) う動詞＋える　
@@ -105,7 +105,7 @@ Life in this city is an easy going one, things are cheap for one thing.
 学生だし
 
 # 13.3 〜そうです [looks like]
-This grammar pattern turns these rules into な形容詞.
+This grammar pattern turns these rules into ~な形容詞.
 1) い形容詞ーい＋そうです
 おいしい→おいしそうです
 2) な形容詞＋そうです
@@ -127,7 +127,8 @@ Looks like this sweater is washable at home.
 If its pretty is obvious, we can't say: 綺麗な→綺麗そう.
 
 # 13.4　〜てみる
-Means trying. Almost always written using hiragana.
+This grammar pattern means to try something. For example "try eating".
+Almost always written using hiragana.
 
 1) 漢字が分からないけど日本人の友達**に**聞いてみました。
 2) 友達があの店のケーキは上手いと行っていましたから、今度食べてみる。
@@ -378,19 +379,39 @@ The TV is off.
 |渡す|渡る|Cross|
 
 # 18.2 ~てしまう [do completely / regret]
+
 # 18.3 ~と [whenever]
-"Whenever". Habitual result, something that will always happen.
-1) 春になると桜が咲きます。
-Note: This always happen.
+## Explanation:
+This grammar pattern can be translated as *if* or *when*. More closely translated to "whenever". This grammar pattern is used when an event has a natural consequence, i.e: "when I close the window, it gets darker inside". Think about it as an event with habitual result, something that will always happen. We can't use と when we are talking about our own volition, or to make request. "When winter comes, lets go skiing" (can't use と in this case).
+
+This grammar pattern can also be used to represent something with a suprising outcome. For example: "The doll's hair grew again when I cut them". 
+
+Overall this grammar pattern is sounds a little bit more formal.
+
+## Example Sentences:
+1) 春になると、桜が咲きます。これは大丈夫：春が来ると、桜が咲きます。
+When (or if) spring comes, the cherry blossom blooms.
+In Japan in the spring, typically the cherry blossom always blooms. 
 2) 君を見ると、自分が若かった頃を思い出す。
-Note: Habitual.
+Whenever I look at you, I think about my younger self.
+Represents something habitual.
+3) 左足出して、右足出すと歩ける。（当たり前！）
+If I put my left foot forward, and then my right food forward, then I walk. (Obviously)
+4) 牛乳を飲むとお腹が痛くなる。
+Whenever I drink milk my stomach hurts. 
+Note: can be a recent thing, can be an occurence since birth.
+5) お酒を飲むすぎると気持ち悪くなる。
+Whenever I drink too much alcohol I feel nauseous.
+6) 人形の髪を切ると、また髪が伸びました。
+Whenever I cut the doll's hair, it grew back.
+Note: this is an example of a suprising usage of this grammar pattern.
 
-We can't use と when we are talking about our own volition, or to make request. "When winter comes, lets go skiing" (can't use と in this case).
-
-ルール：(short, present) clause A と clause B.
+## Grammar Rules：
+1) (short, present) clause A と clause B.
 Whenever A happens, B does too.
-
-
+2) (short, negative) clause A と clause B.
+3) (masu-form, present ONLY) clause A と clause B. 
+Note that the use of -masu form makes the sentence sounds formal.
 
 # 18.4 ~ながら [while]
 Connecting two verbs with 〜ながら to say that the two actions are **performed at the same time**. The second verb can be in any form.

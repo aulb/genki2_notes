@@ -1,5 +1,5 @@
 # Genki 2 Notes
-Personal Genki 2 notes. Each grammar pattern should contain an explanation, a list of examples with translation and some additional notes if required, and a section on how to use the grammar pattern.
+Personal Genki 2 notes. Each grammar pattern should contain an explanation, a list of examples with translation and some additional notes if required, and a section on how to use the grammar pattern (grammar rules).
 
 # Table of Contents
 |第|完成|
@@ -63,9 +63,10 @@ Personal Genki 2 notes. Each grammar pattern should contain an explanation, a li
 |[23.5 ~かた [how to do]](#235-かた)| |
 
 # 13.1 Potential Forms
+## Explanation
 Expressing the ability to do something, can or able to do something.
 Grammar Pattern:
-1) る動詞＋られる
+1) る-verbs＋られる
 寝る→寝られる
 2) う動詞＋える　
 泳ぐ→泳げる
@@ -248,6 +249,32 @@ Meaning "as few as" or "only". しか always goes with negative. Similar to あ�
 I only have one Japanese dictionary.
 
 # 15.1 Volitional Form
+## Explanation
+This section goes over how to express volition (e.g: "let's"). Volition: `the faculty or power of using one's will.`.
+
+## Grammar Rules
+U verb: Replace "ru" with "you". Replace verb stem ending "masu" with "mimashou".
+Ru verb: Replace last "u" with "ou". Replace verb stem ending "imasu" with "imashou".
+Exceptions: 
+- Suru --> Shiyou or shimashou
+- Kuru --> Koyou or kimashou
+
+## Example Sentences
+> 帰り一緒にたくしーにだろうよ。
+
+Let's share a taxi ride home.
+
+>　なんか、食べに行こうか？
+
+Umm, do you wanna go eat?
+
+>　明日、みんなで集まろうよ！
+Let's gather everyone tomorrow!
+
+>　明日は何をしようかな～
+
+What should I do tomorrow.
+
 
 # 15.1/2 Volitional Form + と思っています
 
@@ -412,10 +439,12 @@ Clause A たら clause B. Clause A has yet to happen.
 # 17.6 ~前に / ~てから [before / after]
 
 # 18.1 Transitivity pairs　
-ノート：
-Trans, done by human. Intrans, just happened.
+## Explanation
+One way to remember transitive and intrasitive is direct and indirect. Transitive takes a direct object, so common verbs such as to eat, to drink, to read is transitive since it takes in a direct object. Intransitive does not, common verbs such as to go, to cry, to work is intransitive since it does not take a direct object. If we can attach "what" then it is usually transitive. For example: eat what, drink what, it works because it makes sense. Contrast with sleep what, go what, it sort of does not make sense.
 
-ルール：
+Explanation from Tofugu: https://www.tofugu.com/japanese/transitive-intransitive-verbs/
+
+## Rules
 1) Transitive verb calls for subject (が) and object (を）it acted upon. Intransitive verb only calls for the subject (が).
 2) 自動詞＋ている
 The rule above refers to the states resulting from the change.
@@ -553,12 +582,12 @@ This grammar pattern means that "I'm glad that such and such is/was the case".
 3) 昨日のパーティーに行かなくてよかったです！
 
 # 19.5 ~はずです
-ノート：
+##
 はず is more like supposed, must be, should be (i.e should be going, should be eaten by now.. whatever).
 
 ルール：
-1) 名詞＋のはず
-2) 動詞＋はず　＊辞書系
+1) noun のはず
+2) verb はず　＊辞書系
 3) 形容詞＋はず　（＋な）：綺麗なはず
 
 例：
@@ -603,8 +632,10 @@ The heater was turned on and has been kept that way.
 # 22.3 ば-form [if]
 
 # 22.4 ~のに [even though]
+Contrasting experience
 
 # 22.5 ~のような / ~のように [like]
+Mitai, rashii, poi
 
 # 23.1 Causative-passive Sentences
 
@@ -613,7 +644,7 @@ The heater was turned on and has been kept that way.
 # 23.3 ~ことにする [decide to]
 
 # 23.4 〜まで [until]
-ノート：
+##
 Until. AまでB.
 
 ルール：
@@ -626,14 +657,30 @@ I'll wait at the cafe while drinking coffee until it clears up.
 It was hard until I got used to Japanese lifestyle.
 
 # 23.5 〜かた [how to do]
-ノート：
+## Explanation
 「しかた」と「仕方」同じです。"kata" turns the word into a noun.
 
-ルール：
+## Rules
 1) 動詞＋方　＊〜ます体
-2) 名詞を動詞　→　名詞の動詞方
+2) noun を verb　→　noun の verb 方
 3) 動詞する　→　動詞の方
 
-例：
-- 日本語を勉強する　→　日本語の勉強の方
-- スイカカード使い方を教えてくれます！
+## Examples
+1) 日本語を勉強する　→　日本語の勉強の方
+How to study Japanese.
+2) スイカカード使い方を教えてくれます！
+Please tell me how to use Suica card!
+
+
+# Resources
+Awesome resource: Japanese Ammo with Misa on youtube.
+
+|単語|漢字|
+|---|:-:|
+|Verb|動詞|
+|Noun|名詞|
+|Adjective|形容詞|
+|Transitive|他動詞|
+|Intransitive|自動詞|
+|"Masu"-form|＊〜ます体|
+|Dictionary-form|辞書系|
